@@ -1,1 +1,1 @@
-# mask_detector using pyhton and keras
+# mask_detector using python and keras
